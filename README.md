@@ -40,7 +40,7 @@ IS_ADMIN=true
 
 You can modify the value to `true` or `false` depending on your requirements.
 
----
+---4
 
 ### **4. Access Environment Variables**
 Use `process.env` to access your variables anywhere in your application. Here's an example:
